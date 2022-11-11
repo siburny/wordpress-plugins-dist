@@ -1,6 +1,6 @@
 {
     "datecalc/datecalc.php":{
-        "version":"4.6.4",
+        "version":"4.6.5",
         "package":"https://github.com/siburny/wordpress-plugins-dist/raw/main/datecalc/datecalc.zip"
     }
 }
